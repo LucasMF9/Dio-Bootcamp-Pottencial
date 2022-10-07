@@ -1,0 +1,17 @@
+Listar pastas e diretórios: dir
+
+Acessar pasta ou diretório: cd (+nome da pasta ou diretório)
+
+Retornar à pasta anterior: cd /
+
+Criar Pasta/Diretorio: mkdir(+ nome da pasta)
+
+Limpar o terminal: (CTRL+L)
+
+Iniciar o Git em uma pasta ou novo projeto: git init
+
+Ver o status da pasta ou projeto: git status
+
+Clonar um repositório: git clone (+ link do repositório)
+
+
